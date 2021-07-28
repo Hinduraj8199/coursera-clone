@@ -4,7 +4,7 @@ Coursera is a ed-tech platform where anybody can browse for what they want to le
 
 ## Demo
 
-Will upload a link soon here. Stay tuned!
+https://coursera-clone.netlify.app/
 
 ## Environment Variables
 
